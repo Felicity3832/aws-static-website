@@ -19,7 +19,6 @@ This repository contains a simple static website that was hosted on **Amazon S3*
 
 ---
 
-✨ This project is part of my AWS DevOps engineering training.
 ## AWS Bucket Policy Reference
 
 This project includes a `policy.txt` file located in the `aws-devops-class` folder.  
