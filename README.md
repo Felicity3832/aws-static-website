@@ -20,3 +20,13 @@ This repository contains a simple static website that was hosted on **Amazon S3*
 ---
 
 ✨ This project is part of my AWS DevOps engineering training.
+## AWS Bucket Policy Reference
+
+This project includes a `policy.txt` file located in the `aws-devops-class` folder.  
+It contains the **Amazon S3 bucket policy** used to configure access permissions for hosting the static website.  
+
+- The policy grants public read access to objects in the bucket.  
+- It serves as a reference for learning AWS IAM and S3 security configurations.  
+- You can reuse or adapt this policy when setting up similar static website hosting projects.  
+
+> Note: Always review and adjust bucket policies carefully to avoid exposing sensitive data.
